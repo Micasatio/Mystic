@@ -7,24 +7,24 @@ global.owner = [
   ['595983186566', '👑 Sapito - Creador 👑', true],
   ['524531106422', '👑 Sapito - Creador 2 👑', true],
   ['524531106422', '👑 Sapito - Moderador👑', true],
-  ['595983186566', '👑 Mystic - Collaborator 3 👑', true],
-  ['595983186566', '👑 Mystic - Collaborator 4 👑', true],
-  ['595983186566', '👑 Mystic - Collaborator 5 👑', true],
-  ['595983186566', '👑 Mystic - Collaborator 6 👑', true],
-  ['595983186566', '👑 Mystic - Collaborator 7 👑', true],  
+  ['524531106422', '👑 Sapito - Collaborator 3 👑', true],
+  ['595983186566', '👑 Sapito - Collaborator 4 👑', true],
+  ['524531106422', '👑 Sapito - Collaborator 5 👑', true],
+  ['524531106422', '👑 Sapito - Collaborator 6 👑', true],
+  ['595983186566', ' Sapito - Collaborator 7 👑', true],  
   ['595983186566'],
   ['595983186566'],
-  ['595983186566'],
+  ['524531106422'],
   ['595983186566'],
   ['595983186']
 ] 
-global.suittag = ['12163503324'] 
-global.prems = ['12163503324'] 
+global.suittag = ['524531106422'] 
+global.prems = ['595983186566'] 
 
-global.packname = 'Black_Bot'
-global.author = '★𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝★'
-global.wm = '★𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝★'
-global.igfg = '★𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝★'
+global.packname = '🐸'
+global.author = '★Sapito_Bot★'
+global.wm = '★Sapito_Bot★'
+global.igfg = '★Sapito_Bot★'
 global.wait = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*'
 
 global.keysZens = ['fiktod', 'c2459db922', 'BF39D349845E', '675e34de8a', '37CC845916', '0b917b905e6f', '6fb0eff124']
